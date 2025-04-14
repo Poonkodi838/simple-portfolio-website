@@ -13,6 +13,6 @@ This project was created as a way to establish an online presence and showcase m
 
 ## How to View
 
-To view this portfolio website, you can simply open the `index.html` file (for the Home page) and the `contact.html` file in any web browser.
+To view this portfolio website, you can simply open the [https://poonkodi838.github.io/simple-portfolio-website/]
 
 
